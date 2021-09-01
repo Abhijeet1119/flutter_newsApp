@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012245746094",
+    "project_id": "news-app-bc524",
+    "storage_bucket": "news-app-bc524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012245746094:android:791a41760fb02675c0783f",
+        "android_client_info": {
+          "package_name": "com.badnam.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012245746094-4vqfqmus22dvsjef5akierfjk6ghpkks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2S6slqYp58Fi4WRu-rOOTcPf0025xlO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012245746094-4vqfqmus22dvsjef5akierfjk6ghpkks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
